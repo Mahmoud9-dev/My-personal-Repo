@@ -1,6 +1,5 @@
-# 👨🏻‍💻 [Anurag Singh](https://anuragsingh.dev) [@ashleymavericks](https://anuragsingh.dev)
+# 👨🏻‍💻 [Mahmoud Nasredeen]
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ashleymavericks?style=social)](https://twitter.com/intent/follow?screen_name=ashleymavericks)
 [![GitHub followers](https://img.shields.io/github/followers/ashleymavericks?label=Follow&style=social)](https://github.com/ashleymavericks/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-email@anuragsingh.dev-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:email@anuragsingh.dev)](mailto:email@anuragsingh.dev)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-c14438?style=social&logo=Telegram&logoColor=red&link=https://t.me/ashleymavericks)](https://t.me/ashleymavericks)
