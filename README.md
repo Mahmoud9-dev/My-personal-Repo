@@ -12,8 +12,27 @@
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fashleymavericks&logo=leetcode&logoColor=yellow)](https://leetcode.com/ashleymavericks/)
 [![ProfileViews](https://komarev.com/ghpvc/?username=ashleymavericks&color=red&style=flat)](https://komarev.com/ghpvc/?username=ashleymavericks)
 
-:wave: Hello! I'm founder of [@hackclubnmit](https://github.com/hackclubnmit) and love building softwares, automating my workflows, self-hosting all my services on personal servers (mostly on custom build Raspberry Pi clusters with ICE Tower Cooler🥶), developing algo-trading scripts, managing my entire life on Notion and reading a lot of newsletters on system design choices of big techs. From design to development I love the entire process of building software. I focus on maintainability, performance, and security with all of my projects and try to follow a lot of best practices. Following best practices early on is the way to go and I'm a huge supporter of it.
+Sure, here’s your message in bullet points for your GitHub README:
 
+---
+
+### 👋 Hello!
+
+- As a Junior Full-Stack Engineer, I'm deeply immersed in the MERN stack, with a keen interest in expanding my knowledge of Python, HTML, CSS, JavaScript, and more.
+- My journey in the tech world has been fueled by a passion for problem-solving and creating efficient, user-friendly applications.
+- Currently honing my skills in:
+  - React.js
+  - Node.js
+  - MongoDB
+  - NoSQL databases
+  - Serverless functions
+- I've worked on several projects, including a full-stack application utilizing:
+  - React for the front end
+  - Node.js for the back end
+  - MongoDB database
+- These experiences have enhanced my technical skills and taught me the importance of teamwork and effective communication in software development.
+- I'm always eager to learn and grow and am currently enrolled in a certification course to deepen my understanding of full-stack development.
+- I aim to leverage my skills to contribute to innovative projects and continue learning from the best in the industry.
 <div align="center">
     <details>
         <summary><b>GitHub Metrics👇🏻</b></summary>
